@@ -1,0 +1,25 @@
+{
+    "x":0,
+    "type":"Sprite",
+    "selectedBox":31,
+    "searchKey":"Sprite,BlackCover",
+    "props":{"y":0,"x":0,"width":1080,"texture":"image/hei-bu.png","presetID":1,"preset":"laya/pages/prefab/BlackCover.prefab","name":"BlackCover","isPresetRoot":true,"height":1920},
+    "nodeParent":-1,
+    "maxID":32,
+    "label":"BlackCover",
+    "isDirectory":false,
+    "isAniNode":true,
+    "hasChild":false,
+    "compId":31,
+    "child":[
+        ],
+    "animations":[
+        {
+            "nodes":[
+                ],
+            "name":"ani1",
+            "id":1,
+            "frameRate":24,
+            "action":0
+        }]
+}

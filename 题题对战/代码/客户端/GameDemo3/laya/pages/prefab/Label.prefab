@@ -1,0 +1,25 @@
+{
+    "x":0,
+    "type":"Label",
+    "selectedBox":12,
+    "searchKey":"Label",
+    "props":{"y":0,"x":0,"text":"LabelLabel","styleSkin":"comp/label.png","runtime":"script/runtime/LabelRuntime.ts","presetID":1,"preset":"laya/pages/prefab/Label.prefab","isPresetRoot":true,"fontSize":30,"font":"Microsoft YaHei","color":"#ffffff","align":"center"},
+    "nodeParent":-1,
+    "maxID":13,
+    "label":"Label(Label)",
+    "isDirectory":false,
+    "isAniNode":true,
+    "hasChild":false,
+    "compId":12,
+    "child":[
+        ],
+    "animations":[
+        {
+            "nodes":[
+                ],
+            "name":"ani1",
+            "id":1,
+            "frameRate":24,
+            "action":0
+        }]
+}

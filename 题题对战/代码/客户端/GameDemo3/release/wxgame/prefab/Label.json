@@ -1,0 +1,1 @@
+{"type":"Label","props":{"y":0,"x":0,"text":"LabelLabel","styleSkin":"comp/label.png","runtime":"script/runtime/LabelRuntime.ts","presetID":1,"isPresetRoot":true,"fontSize":30,"font":"Microsoft YaHei","color":"#ffffff","align":"center"},"compId":12,"loadList":["comp/label.png"],"loadList3D":[]}

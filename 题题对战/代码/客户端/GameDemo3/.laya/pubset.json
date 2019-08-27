@@ -1,0 +1,27 @@
+{
+    "1": {
+        "sourcePath": "E:\\work\\GameDemo3\\bin",
+        "outPath": "E:\\work\\GameDemo3\\release\\wxgame",
+        "pngQualityLow": "65",
+        "pngQualityHigh": "80",
+        "jpgQuality": "85",
+        "mergeJs": false,
+        "isWXOpenZone": false,
+        "compressPng": true,
+        "compressJpg": false,
+        "compressJson": true,
+        "jsontypes": "json,atlas,ls,lh,lmat,lav",
+        "compressJs": false,
+        "enableVersion": false,
+        "onlyIndexJS": true,
+        "deleteOldVersionFile": false,
+        "recompile": true,
+        "excludeFiles": "",
+        "publishType": 1,
+        "projectType": "ts",
+        "copyOutFiles": "",
+        "copyOutPath": "",
+        "userCmd": ""
+    },
+    "pf": 1
+}

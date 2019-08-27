@@ -1,0 +1,25 @@
+{
+    "x":0,
+    "type":"Sprite",
+    "selectedBox":33,
+    "searchKey":"Sprite,pig",
+    "props":{"y":0,"x":0,"texture":"image/zhu1.png","scaleY":0.5,"scaleX":0.5,"presetID":1,"preset":"laya/pages/prefab/pig.prefab","name":"pig","isPresetRoot":true},
+    "nodeParent":-1,
+    "maxID":34,
+    "label":"pig",
+    "isDirectory":false,
+    "isAniNode":true,
+    "hasChild":false,
+    "compId":33,
+    "child":[
+        ],
+    "animations":[
+        {
+            "nodes":[
+                ],
+            "name":"ani1",
+            "id":1,
+            "frameRate":24,
+            "action":0
+        }]
+}

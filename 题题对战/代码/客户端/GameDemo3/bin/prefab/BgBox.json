@@ -1,0 +1,1 @@
+{"type":"Box","props":{"y":-151,"x":-123,"presetID":1,"name":"BgBox","isPresetRoot":true},"compId":4,"child":[{"type":"Sprite","props":{"texture":"image/bei-jin.png","presetID":2},"compId":3}],"loadList":["image/bei-jin.png"],"loadList3D":[]}

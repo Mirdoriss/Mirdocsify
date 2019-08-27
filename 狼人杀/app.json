@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/hunter/hunter",
+    "pages/chooseRole/chooseRole",
+    "pages/witch/witch",
+    "pages/playground/playground",
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "狼人杀",
+    "navigationBarTextStyle":"black"
+  }
+}
